@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>data</key>
+    <dict>
+        <key>menuSingle</key>
+        <string>单机模式</string>
+        <key>menuHelp</key>
+        <string>帮助</string>
+        <key>menuSetting</key>
+        <string>设置</string>
+        <key>soundEffct</key>
+        <string>音效:开</string>
+        <key>soundEffct_close</key>
+        <string>音效:关</string>
+        <key>bgMusic</key>
+        <string>背景音乐:开</string>
+        <key>bgMusic_close</key>
+        <string>背景音乐:关</string>
+        <key>closeAds</key>
+        <string>关闭广告:开</string>
+        <key>closeAds_close</key>
+        <string>关闭广告:关</string>
+    </dict>
+    <key>metadata</key>
+    <dict>
+        <key>format</key>
+        <integer>1</integer>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<Solution>
+  <PropertyGroup Name="chess" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="chess_black.png" />
+        <Image Name="chess_red.png" />
+        <Project Name="GameMenu.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
